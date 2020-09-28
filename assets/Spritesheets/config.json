@@ -1,0 +1,12 @@
+{
+  "Character": {
+    "Body": {
+      "Female": {
+        "tanned": "Character/Body/Female/tanned.png"
+      },
+      "Male": {
+        "tanned": "Character/Body/Male/tanned.png"
+      }
+    }
+  }
+}
